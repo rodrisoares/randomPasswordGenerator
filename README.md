@@ -1,4 +1,4 @@
 # randomPasswordGenerator
 
 
-Gerando uma senha aleatória utilizando HTML, CSS e JAVA Script.
+Gerando uma senha aleatória utilizando HTML e CSS.
